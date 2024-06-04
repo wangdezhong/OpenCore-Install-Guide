@@ -23,7 +23,7 @@
 
 ## 使用 App Store
 
-在符合你想要安装的操作系统版本要求的macOS机器上，直接进入App Store下载所需的操作系统版本，然后继续 [**设置安装程序**](#setting-up-the-installer).
+在符合你想要安装的操作系统版本要求的macOS机器上，直接进入App Store下载所需的操作系统版本，然后继续 [**设置安装程序**](#设置安装程序).
 
 ## 命令行软件更新实用程序
 
@@ -37,7 +37,7 @@ softwareupdate --list-full-installers;echo;echo "Please enter version number you
 
 这将为您提供一个可供选择的可用版本列表。
 一旦下载，它将保存在您的应用程序文件夹。
-您可以继续[**设置安装程序**](#setting-up-the-installer).
+您可以继续[**设置安装程序**](#设置安装程序).
 
 ## Munki的InstallInstallMacOS实用程序
 
